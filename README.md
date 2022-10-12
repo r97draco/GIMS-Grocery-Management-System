@@ -1,11 +1,6 @@
 # GIMS-Grocery-Management-System
 
-name : Jagroop Singh
-student number : 200443705 
-class number : CS215 070
-URL (assignment 6) : http://www2.cs.uregina.ca/~jse553/assignments/as6/html/login.php
-mySQL username : jse553
-mySQL password : Js#sql
+Live link ---  http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php 
 
 Files submitted:
 
