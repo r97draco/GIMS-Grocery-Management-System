@@ -4,8 +4,8 @@ Live link ---  http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php
 <br>
 Files Info:
 <br>
-(txt)<br>
-1. log.txt : This File<br>
+(md)
+1. README.md : This File<br>
 
 
 (php)<br> 
