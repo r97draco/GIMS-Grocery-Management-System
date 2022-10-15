@@ -9,12 +9,9 @@ Live link :- [http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php](http://www
 1. Any webbrowser 
 2. Internet
 
-<br>
-### Files Info:
-<br>
+## Files Info:
 ### (md)
 1. README.md : This File<br>
-
 
 ### (php)<br> 
 2. login.php : It is php file for the LOG IN page<br>
@@ -29,10 +26,8 @@ Live link :- [http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php](http://www
 11. delete.php : php script for delete button ajax<br>
 12. retreiveList.php : php script for dynamically loading the grocery list for ajax function<br>
 
-
 ### (css)<br>
 13. style.css : CSS file for styling our HTML<br>
-
 
 ### (js)<br>
 14. glist-r.js : Eventlhandler(item counter, hide/unhide consume button and border of div) for Grocery list.<br>
@@ -45,7 +40,6 @@ Live link :- [http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php](http://www
 21. postg-validate.js : Events for Grocery Post page form validation.<br>
 22. ajaxButton.js : Ajax function for consume buy and delete buttons and to process the response<br>
 23. ajaxUpdateGlist.js : Ajax function to dynamically load the grocery list every 90 seconds and process the JSON response<br>
-
 
 ### (jpg)<br>
 24. tomato.jpg : Image of a tomato<br>
