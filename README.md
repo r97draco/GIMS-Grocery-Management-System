@@ -1,8 +1,7 @@
 # GIMS-Grocery-Management-System
-http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php
+(http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
 
-
-Live link ---  http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php 
+Live link:- (http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
 <br>
 Files Info:
 <br>
