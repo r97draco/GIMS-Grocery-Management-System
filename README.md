@@ -1,16 +1,22 @@
 # GIMS-Grocery-Management-System
-(http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
+A grocery inventory record keeping system using web(HTML, Javascript, PHP)and a mySQL database, dynamically updated with AJAX.
 
-Link to Project :- (https://r97draco.github.io/GIMS-Grocery-Management-System/) <br>
-Live link:- (http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
+## Link to site
+Github pages :- [https://r97draco.github.io/GIMS-Grocery-Management-System/](https://r97draco.github.io/GIMS-Grocery-Management-System/) <br>
+Live link :- [http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php](http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
+
+## Required
+1. Any webbrowser 
+2. Internet
+
 <br>
-Files Info:
+### Files Info:
 <br>
-(md)
+### (md)
 1. README.md : This File<br>
 
 
-(php)<br> 
+### (php)<br> 
 2. login.php : It is php file for the LOG IN page<br>
 3. signup.php : It is php file for the SIGN UP page<br>
 4. postg.php : It is php file for the Posting the groceries <br>
@@ -24,11 +30,11 @@ Files Info:
 12. retreiveList.php : php script for dynamically loading the grocery list for ajax function<br>
 
 
-(css)<br>
+### (css)<br>
 13. style.css : CSS file for styling our HTML<br>
 
 
-(js)<br>
+### (js)<br>
 14. glist-r.js : Eventlhandler(item counter, hide/unhide consume button and border of div) for Grocery list.<br>
 15. glist-update.js : Events for Grocery list.<br>
 16. login-r.js : Eventlhandler for Login page.<br>
@@ -41,6 +47,6 @@ Files Info:
 23. ajaxUpdateGlist.js : Ajax function to dynamically load the grocery list every 90 seconds and process the JSON response<br>
 
 
-(jpg)<br>
+### (jpg)<br>
 24. tomato.jpg : Image of a tomato<br>
 25. potato.jpg : Image of a potato
