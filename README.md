@@ -1,6 +1,7 @@
 # GIMS-Grocery-Management-System
 (http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
 
+Link to Project :- (https://r97draco.github.io/GIMS-Grocery-Management-System/)
 Live link:- (http://www2.cs.uregina.ca/~jse553/jsGroc/php/index.php)
 <br>
 Files Info:
